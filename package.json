@@ -1,0 +1,24 @@
+{
+  "name": "react_first",
+  "version": "1.0.0",
+  "description": "First Project in react.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatish-k/react_first.git"
+  },
+  "keywords": [
+    "first",
+    "react",
+    "app"
+  ],
+  "author": "Yatish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yatish-k/react_first/issues"
+  },
+  "homepage": "https://github.com/yatish-k/react_first#readme"
+}
